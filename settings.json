@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WiktorJestBananem.aternos.me",
+    "ip": "tenpounder.aternos.host",
     "port": 47197,
     "version": "1.21.11",
     "try-creative": true
